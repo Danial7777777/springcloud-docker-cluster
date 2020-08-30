@@ -1,0 +1,3 @@
+hello: hi hello spring-zuul-dev.yml
+server:
+  port: 8001
